@@ -29,7 +29,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "chalk": "^2.0.0",
+    "chalk": "2.1.0",
     "cliff": "~0.1.8",
     "homedir": "^0.6.0",
     "lodash.throttle": "^4.1.1",
